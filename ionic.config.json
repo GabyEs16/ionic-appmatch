@@ -1,0 +1,7 @@
+{
+  "name": "appmatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
